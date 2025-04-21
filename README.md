@@ -1,4 +1,3 @@
-```markdown
 # M‑Pesa SDK for Kenyan SMEs
 
 A lightweight, developer‑friendly Node.js/Express SDK that helps Kenyan small and medium enterprises (SMEs) accept mobile‑money payments via Safaricom’s Daraja API—featuring graduated, bracket‑based fees, tiered subscriptions, premium add‑ons, real‑time reconciliation, and easy integration with local systems.
@@ -266,4 +265,3 @@ MIT — see [LICENSE](LICENSE)
 ---
 
 *Built with ❤️ by Simeon Ngalamou for Kenyan SMEs*  
-```
